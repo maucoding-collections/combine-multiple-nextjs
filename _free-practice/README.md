@@ -4,25 +4,25 @@
 
 ### Instalation
 
-Make current position in "\_free-practice" directory.
+1. Make current position in "\_free-practice" directory.
 
-Instal express dependencies.
+2. Instal express dependencies.
 
-```
-npm install
-```
+   ```
+   npm install
+   ```
 
-Instal && buikd Next Project Latest Version
+3. Install && build Next Project Latest Version
 
-```
-cd projects nextjs-latest && npm install && npm run build
-```
+   ```
+   cd projects nextjs-latest && npm install && npm run build
+   ```
 
-Instal Next Project Old Version
+4. Install && build Next Project Old Version
 
-```
-cd projects nextjs-old && npm install && npm run build
-```
+   ```
+   cd projects nextjs-old && npm install && npm run build
+   ```
 
 ### Runing
 
@@ -30,7 +30,6 @@ cd projects nextjs-old && npm install && npm run build
 npm run start
 ```
 
-Check https://localhost:3000/projects/old
-or https://localhost:3000/projects/latest
+Run on port 3000 by default.
 
-to make sure it's worked.
+Check https://localhost:3000/projects/old or https://localhost:3000/projects/latest to make sure it's worked.
