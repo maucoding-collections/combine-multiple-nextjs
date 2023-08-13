@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-[Free Practice Readme](https://github.com/maucoding-collections/combine-multiple-nextjs/tree/master/_free-practice#free-practice-of-multiple-next-js-using-express)
+[Youtube Videos](https://www.youtube.com/watch?v=zQsrye90wGY)
