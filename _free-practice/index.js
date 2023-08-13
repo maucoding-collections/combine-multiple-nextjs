@@ -1,6 +1,6 @@
 const express = require("express");
-const NextOldHandler = require("./src/handlers/nextOld");
 const NextLatestHandler = require("./src/handlers/nextLatest");
+const NextOldHandler = require("./src/handlers/nextOld");
 
 const app = express();
 const port = 3000;
